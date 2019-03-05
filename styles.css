@@ -1,0 +1,36 @@
+.manhattan{
+    color:yellow;
+    height:40px;
+    text-align:center;
+    font-size:16pt;
+    font-weight:normal;
+    text-shadow: 3px 3px purple;
+    padding-top:10px;
+    border:groove pink 10px;
+    font-family: 'Spicy Rice', cursive;
+    
+
+}
+.manhattan{
+
+}
+.times_square{
+    background-image:url("https://media-cdn.tripadvisor.com/media/photo-s/00/10/18/bc/times-square.jpg");
+}
+
+
+.brooklyn{
+    color:yellow;
+    height:200px;
+    text-align:center;
+    font-size:16pt;
+    font-weight:normal;
+    text-shadow: 3px 3px purple;
+    padding-top:10px;
+    border:groove pink 10px;
+    font-family: 'Spicy Rice', cursive;
+}
+    
+.art{   
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQlzTOekZkeKAMzErJjCdPV9wGstAFRARXLX1jMooojXDkNIyRJg");
+}
